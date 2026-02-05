@@ -1,0 +1,9 @@
+# VASP outputs (large files)
+CHG CHGCAR CONTCAR DOSCAR EIGENVAL OUTCAR PCDAT REPORT
+WAVECAR vasprun.xml XDATCAR IBZKPT
+# Slurm / job logs
+slurm-*.out
+# OS
+.DS_Store
+# Optional: uncomment to ignore generated plots
+# *.png
